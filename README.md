@@ -1,4 +1,6 @@
-### Hi there 👋
+### If you are seeing this, there is a chance you are looking for [_dzivko1_](https://github.com/dzivko1)
+
+I renamed my account and this is the old one 🙂
 
 <!--
 **Altline/Altline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
